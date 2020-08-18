@@ -61,3 +61,5 @@ python3 inference.py --data ./CULane --ckpt [Path to the model checkpoint file] 
 
 
 
+**And Let Me Know If You Have Any Progress on these directions!!!**
+
